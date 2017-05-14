@@ -21,3 +21,19 @@ let id = makePushID() //-Kk6Xfa37VrgLYFtTygJ
 ### Credit
 
 Original javascript implementation [here](https://gist.github.com/mikelehen/3596a30bd69384624c11).
+
+### Other languages
+
+[C](https://gist.github.com/whatvn/15f5266d59320113d978)
+[Java](https://gist.github.com/swftvsn/438b4ed68619ad1f5d1c251dc3a5af6f)
+[Go](https://github.com/kjk/betterguid)
+[C#](https://gist.github.com/kiliman/ca1d9f4135078a6b24c5005113bbeea4)
+[Obj-C](https://gist.github.com/kcmoffat/af856ab4b605a00216d3b5f627e50a84)
+[Typescript](https://gist.github.com/episage/0fa8fcf71a28985197c9ba1d51f84408)
+[Ruby](https://gist.github.com/azell/b96d27e4091f5a966bae)
+[Python](https://gist.github.com/risent/4cab3878d995bec7d1c2)
+[Elm](https://github.com/ryanucode/firebase-effect-manager)
+[SQL](https://gist.github.com/DimuDesigns/2fd0adf5b56a5ebf7cc27f64bff13fd2)
+[Lua](https://github.com/tst2005/lua-firebase_pushid/blob/master/firebase_pushid.lua)
+
+
