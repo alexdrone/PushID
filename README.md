@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 
-Robust and thread-safe generator for GUIDs with guaranteed chronological ordering based on [Firebase's PushID](https://firebase.googleblog.com/2015/02/the-2120-ways-to-ensure-unique_68.html).
+Robust and thread-safe generator for UUIDs with guaranteed chronological ordering based on [Firebase's PushID](https://firebase.googleblog.com/2015/02/the-2120-ways-to-ensure-unique_68.html).
 
 ID generator that creates 20-character string identifiers with the following properties:
   1. They're based on timestamp so that they sort *after* any existing ids.
