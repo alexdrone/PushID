@@ -1,5 +1,5 @@
 # PushID
-[![Swift](https://img.shields.io/badge/swift-3.1-orange.svg?style=flat)](#)
+[![Swift](https://img.shields.io/badge/swift-5.1-orange.svg?style=flat)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 
